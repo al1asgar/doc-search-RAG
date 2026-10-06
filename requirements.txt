@@ -1,0 +1,6 @@
+streamlit
+pypdf
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+pysqlite3-binary
