@@ -7,7 +7,8 @@ from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 
-st.title("Doc Search - Ask My Resume")
+st.title("Doc-Search — Chat with any PDF")
+st.caption("Upload a PDF, enter your OpenAI key in the sidebar, and ask questions about it. Nothing is stored.")
 
 openai_api_key = st.sidebar.text_input("Your OpenAI API key", type="password")
 
