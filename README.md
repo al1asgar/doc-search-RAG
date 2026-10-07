@@ -5,8 +5,6 @@ A document question-answering web app. Upload a PDF, ask questions in plain Engl
 **Live demo:** https://docsearch-rag.streamlit.app/
 *(Bring your own OpenAI key — enter it in the sidebar. Nothing is stored.)*
 
-**Demo video:** `paste your 60-second screen recording link here`
-
 ---
 
 ## What it does
