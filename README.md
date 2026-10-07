@@ -34,7 +34,7 @@ A document question-answering web app. Upload a PDF, ask questions in plain Engl
 ## Run it locally
 
 ```bash
-git clone https://github.com/your-username/docsearch-rag.git
+git clone https://github.com/al1asgar/docsearch-rag.git
 cd docsearch-rag
 pip install -r requirements.txt
 streamlit run doc-search.py
